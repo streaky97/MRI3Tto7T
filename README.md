@@ -1,3 +1,3 @@
 # MRI3Tto7T
-The repo of 3T MRI to 7T MRI
+This is the public repository of 3T MRI to 7T MRI model cDDPM
 The code will be comming soon.
